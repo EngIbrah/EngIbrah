@@ -10,7 +10,7 @@ I’m passionate about building modern web applications and analyzing data to ex
 
 ### 🌐 Web Development (Primary)
 - HTML | CSS | JavaScript  
-- React.js  
+- React.js  | React native
 - Node.js  
 - Express.js  
 - Git & GitHub  
@@ -18,7 +18,8 @@ I’m passionate about building modern web applications and analyzing data to ex
 ### 📊 Data Analysis (Secondary)
 - Python (Pandas, NumPy)  
 - SQL (PostgreSQL, MySQL)  
-- Power BI  
+- Power BI
+- Excel
 
 ## 📁 Projects
 Here are some of the projects I'm currently working on (and more coming soon):
