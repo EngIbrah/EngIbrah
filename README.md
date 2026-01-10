@@ -1,14 +1,20 @@
-![Profile Picture](https://avatars.githubusercontent.com/u/your-github-user-id?v=4) <!-- Replace with your actual avatar URL or upload an image to your repo -->
-
 # Hi there 👋
 
 I'm Ibrahim, a final-year Computer Engineering student at Dar es Salaam Institute of Technology (DIT). As a passionate Data Scientist, Machine Learning enthusiast, and Full-Stack Developer, I'm dedicated to building intelligent systems and scalable applications that solve real-world problems.
 
 ## Expertise
 
-With a strong foundation in computer engineering, I specialize in data analysis, machine learning models, and full-stack web/mobile development. My projects blend data-driven insights with modern tech stacks, focusing on efficient, user-centric solutions. I've worked on AI-powered platforms, financial inclusion models, and customer behavior analytics using tools like Python, React, and Express.
+# Hi there! I'm [Your Name] 👋
 
-As a student leader in tech clubs, I've guided teams through hackathons and collaborative projects, emphasizing clean code, performance optimization, and innovative problem-solving. I'm always eager to explore emerging technologies in AI and data science to create impactful, scalable applications.
+<p align="left">
+  <img src="github-profile-trophy.vercel.app" alt="trophies" />
+</p>
+
+### 👨‍💻 About Me
+A computer engineering specialist in **data analysis**, **machine learning**, and **full-stack development**. 
+* 🚀 Expertise in AI platforms and customer analytics.
+* 👥 Student leader focused on clean code and innovative problem-solving.
+* 🔭 Eager to explore emerging AI and data science technologies..
 
 ## Tech Stack
 
