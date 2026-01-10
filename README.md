@@ -1,5 +1,3 @@
-
-
 ## Hi there! I'm Ibrahim 👋
 
 ### 👨‍💻 About Me
@@ -38,10 +36,6 @@ A computer engineering specialist in **data analysis**, **machine learning**, an
     </td>
   </tr>
 </table>
-
-## 🏆 GitHub Profile Trophies
-
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=EngIbrah&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🚀 Featured Projects
