@@ -43,6 +43,16 @@ A computer engineering specialist in **data analysis**, **machine learning**, an
 - **[MindCare AI](https://github.com/EngIbrah/mindcare-ai-based-mental-health-platform)** – AI-powered mental health platform (TypeScript)  
 - **[Financial Inclusion in Africa](https://github.com/EngIbrah/Financial-Inclusion-in-Africa-Zindi-Competition)** – Zindi competition entry using ML models  
 
+## 🏅 Achievements & Milestones
+
+- 🚀 Successfully completed final-year projects focused on **Data Science**, **Machine Learning**, and **AI-driven applications**
+- 🏆 Competed in **Zindi ML challenges** — including Financial Inclusion in Africa prediction competition
+- 🤝 Actively contributed to team-based projects & open-source initiatives during university (DIT hackathons & group work)
+- 📈 Building consistent GitHub presence as a **full-stack developer** — daily commits, React/Express/Node projects, and growing portfolio
+- 🎯 Working towards official GitHub badges (Quickdraw, Pull Shark, Pair Extraordinaire & more) through open contributions and fast issue resolution
+
+
+
 ## 📫 Socials
 [LinkedIn](https://linkedin.com/in/ibrahim-ndagiwe) | [Email](mailto:your.email@example.com) | [X (Twitter)](https://x.com/Ibrahim) | [Instagram](https://instagram.com/yourusername)
 
