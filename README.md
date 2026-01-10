@@ -53,7 +53,21 @@ A computer engineering specialist in **data analysis**, **machine learning**, an
 
 
 
-## 📫 Socials
-[LinkedIn](https://linkedin.com/in/ibrahim-ndagiwe) | [Email](mailto:your.email@example.com) | [X (Twitter)](https://x.com/Ibrahim) | [Instagram](https://instagram.com/yourusername)
+## 📫 Let's Connect
 
-Always learning, building, and open to collaborations!
+<p align="left">
+  <a href="https://www.linkedin.com/in/ibrahim-ndagiwe-987366256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ibrahndagiwe99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/ibrahndagiwe">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://instagram.com/ndagiwe_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+Always learning, building, and open to collaborations! 🚀
