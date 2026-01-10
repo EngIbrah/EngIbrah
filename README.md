@@ -2,10 +2,6 @@
 
 ## Hi there! I'm Ibrahim 👋
 
-<p align="left">
- [![trophy](https://github-profile-trophy.vercel.app/?username=engibrah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
 ### 👨‍💻 About Me
 A computer engineering specialist in **data analysis**, **machine learning**, and **full-stack development**. 
 * 🚀 Expertise in AI platforms and customer analytics.
@@ -42,6 +38,10 @@ A computer engineering specialist in **data analysis**, **machine learning**, an
     </td>
   </tr>
 </table>
+
+## 🏆 GitHub Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EngIbrah&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 Featured Projects
 - **[Customer Shopping Behaviour Analysis](https://github.com/EngIbrah/Customer-Shopping-Behaviour-Analysis)** – Data analysis with Python, SQL, and Power BI  
