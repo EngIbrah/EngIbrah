@@ -1,13 +1,9 @@
-# Hi there 👋
 
-I'm Ibrahim, a final-year Computer Engineering student at Dar es Salaam Institute of Technology (DIT). As a passionate Data Scientist, Machine Learning enthusiast, and Full-Stack Developer, I'm dedicated to building intelligent systems and scalable applications that solve real-world problems.
 
-## Expertise
-
-# Hi there! I'm [Your Name] 👋
+## Hi there! I'm Ibrahim 👋
 
 <p align="left">
-  <img src="github-profile-trophy.vercel.app" alt="trophies" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=engibrah)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ### 👨‍💻 About Me
