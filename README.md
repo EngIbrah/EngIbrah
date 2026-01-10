@@ -3,7 +3,7 @@
 ## Hi there! I'm Ibrahim 👋
 
 <p align="left">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=engibrah)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=engibrah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ### 👨‍💻 About Me
