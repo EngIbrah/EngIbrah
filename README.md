@@ -1,99 +1,52 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C8FF&center=true&vCenter=true&width=480&lines=Hi+there!+👋;I'm+Ibrahim" alt="Typing SVG" />
-</p>
+![Profile Picture](https://avatars.githubusercontent.com/u/your-github-user-id?v=4) <!-- Replace with your actual avatar URL or upload an image to your repo -->
 
-<h3 align="center">
-Final-Year Computer Engineering Student @ DIT  
-</h3>
+# Hi there 👋
 
-<p align="center">
-I’m passionate about building <strong>data-driven systems</strong>, <strong>machine learning solutions</strong>,  
-and <strong>scalable full-stack applications</strong>.
-<br/>
-I enjoy turning complex problems into clean, efficient, and impactful software.
-</p>
+I'm Ibrahim, a final-year Computer Engineering student at Dar es Salaam Institute of Technology (DIT). As a passionate Data Scientist, Machine Learning enthusiast, and Full-Stack Developer, I'm dedicated to building intelligent systems and scalable applications that solve real-world problems.
 
----
+## Expertise
 
-## 🚀 Expertise
+With a strong foundation in computer engineering, I specialize in data analysis, machine learning models, and full-stack web/mobile development. My projects blend data-driven insights with modern tech stacks, focusing on efficient, user-centric solutions. I've worked on AI-powered platforms, financial inclusion models, and customer behavior analytics using tools like Python, React, and Express.
 
-- 📊 **Data Science & Analytics** – data cleaning, visualization, insights
-- 🤖 **Machine Learning** – model training, evaluation, deployment basics
-- 🌐 **Full-Stack Development** – modern web apps, APIs, databases
-- ⚙️ **Problem Solving** – competitions, real-world datasets, system thinking
+As a student leader in tech clubs, I've guided teams through hackathons and collaborative projects, emphasizing clean code, performance optimization, and innovative problem-solving. I'm always eager to explore emerging technologies in AI and data science to create impactful, scalable applications.
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 💻 Programming & Data
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+## GitHub Stats
 
-### 📊 Data Science & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EngIbrah&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EngIbrah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-</p>
+## 🚀 Featured Projects
+- **[Customer Shopping Behaviour Analysis](https://github.com/EngIbrah/Customer-Shopping-Behaviour-Analysis)** – Data analysis with Python, SQL, and Power BI  
+- **[MindCare AI](https://github.com/EngIbrah/mindcare-ai-based-mental-health-platform)** – AI-powered mental health platform (TypeScript)  
+- **[Financial Inclusion in Africa](https://github.com/EngIbrah/Financial-Inclusion-in-Africa-Zindi-Competition)** – Zindi competition entry using ML models  
 
-### 🔧 Backend & Tools
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+## 📫 Socials
+[LinkedIn](https://linkedin.com/in/ibrahim-ndagiwe) | [Email](mailto:your.email@example.com) | [X (Twitter)](https://x.com/Ibrahim) | [Instagram](https://instagram.com/yourusername)
 
----
-
-## 🌟 Featured Projects
-
-- **🛒 Customer Shopping Behaviour Analysis**  
-  Data analysis using Python, SQL, and Power BI  
-  🔗 https://github.com/EngIbrah/Customer-Shopping-Behaviour-Analysis
-
-- **🧠 MindCare AI**  
-  AI-powered mental health platform (TypeScript, ML concepts)  
-  🔗 https://github.com/EngIbrah/mindcare-ai-based-mental-health-platform
-
-- **🌍 Financial Inclusion in Africa (Zindi)**  
-  Machine learning models for real-world financial data  
-  🔗 https://github.com/EngIbrah/Financial-Inclusion-in-Africa-Zindi-Competition
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngIbrah&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngIbrah&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ibrahim-ndagiwe">LinkedIn</a> •
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://github.com/EngIbrah">GitHub</a>
-</p>
-
-<p align="center">
-  <i>Always learning. Always building. Open to collaboration.</i>
-</p>
+Always learning, building, and open to collaborations!
