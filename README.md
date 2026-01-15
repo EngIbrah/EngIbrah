@@ -56,7 +56,7 @@ A computer engineering specialist in **data analysis**, **machine learning**, an
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ibrahim-ndagiwe-987366256/">
+  <a href="https://www.linkedin.com/in/ibrahim-ndagiwe/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ibrahndagiwe99@gmail.com">
