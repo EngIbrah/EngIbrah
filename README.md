@@ -15,7 +15,7 @@ A computer engineering specialist focused on **Data Analysis**, **Machine Learni
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngIbrah&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=EngIbrah&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ A computer engineering specialist focused on **Data Analysis**, **Machine Learni
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngIbrah&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=EngIbrah&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
