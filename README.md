@@ -13,15 +13,15 @@ A computer engineering specialist focused on **Data Analysis**, **Machine Learni
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngIbrah&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" />
+  <img src="profile-summary-card-output/default/0-profile-details.svg" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EngIbrah&theme=dark&hide_border=true" alt="Ibrahim's GitHub Streak" />
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngIbrah&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="profile-summary-card-output/default/3-stats.svg" />
+  <img src="profile-summary-card-output/default/4-productive-time.svg" />
 </p>
 
 ---
