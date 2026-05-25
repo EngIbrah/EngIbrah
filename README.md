@@ -15,12 +15,15 @@ A computer engineering specialist focused on **Data Analysis**, **Machine Learni
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngIbrah&show_icons=true&theme=matrix&hide_border=false&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngIbrah&theme=matrix&hide_border=false" alt="Ibrahim's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EngIbrah&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngIbrah&layout=compact&theme=matrix&hide_border=false" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngIbrah&theme=dark&hide_border=true" alt="Ibrahim's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngIbrah&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
