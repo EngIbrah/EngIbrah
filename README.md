@@ -13,14 +13,14 @@ A computer engineering specialist focused on **Data Analysis**, **Machine Learni
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="profile-summary-card-output/default/0-profile-details.svg" />
+  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Ibrahim's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img src="profile-summary-card-output/default/3-stats.svg" alt="Ibrahim's GitHub Streak" />
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages" />
+</p>
+<p align="center">
   <img src="profile-summary-card-output/default/2-most-commit-language.svg" />
-</p>
-<p align="center">
-  <img src="profile-summary-card-output/default/3-stats.svg" />
   <img src="profile-summary-card-output/default/4-productive-time.svg" />
 </p>
 
