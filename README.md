@@ -1,9 +1,11 @@
 # Hi there! I'm Ibrahim 👋
+
 A computer engineering specialist focused on **Data Analysis**, **Machine Learning**, and **Full-Stack Development**. Eager to explore emerging AI technologies and build innovative problem-solving tools.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
 * **Languages:** Python, JavaScript, TypeScript, SQL
 * **Data & AI:** Machine Learning (TensorFlow), Excel, Power BI
 * **Full-Stack:** React, React Native, Node.js, Express.js, Mongoose, MongoDB, PostgreSQL
@@ -13,20 +15,17 @@ A computer engineering specialist focused on **Data Analysis**, **Machine Learni
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Ibrahim's GitHub Stats" />
+  <img src="profile-summary-card-output/default/0-profile-details.svg" alt="Ibrahim's GitHub Profile Details" />
 </p>
+
 <p align="center">
-  <img src="profile-summary-card-output/default/3-stats.svg" alt="Ibrahim's GitHub Streak" />
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="profile-summary-card-output/default/2-most-commit-language.svg" />
-  <img src="profile-summary-card-output/default/4-productive-time.svg" />
+  <img src="profile-summary-card-output/default/3-stats.svg" alt="Ibrahim's GitHub Stats" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
+
 * **[Customer Shopping Behaviour Analysis](https://github.com/EngIbrah/Customer-Shopping-Behaviour-Analysis)** – Data analysis with Python, SQL, and Power BI.
 * **[MindCare AI](https://github.com/EngIbrah/mindcare-ai-based-mental-health-platform)** – AI-powered mental health platform built with TypeScript.
 * **[Financial Inclusion in Africa](https://github.com/EngIbrah/Financial-Inclusion-in-Africa-Zindi-Competition)** – Zindi machine learning competition entry.
@@ -34,6 +33,7 @@ A computer engineering specialist focused on **Data Analysis**, **Machine Learni
 ---
 
 ### 📫 Let's Connect
+
 [LinkedIn](https://www.linkedin.com/in/ibrahim-ndagiwe/) | [Email](mailto:ibrahndagiwe99@gmail.com) | [X (Twitter)](https://x.com/ibrahndagiwe) | [Instagram](https://instagram.com/ndagiwe_)
 
 *Always learning, building, and open to collaborations!* 🚀
