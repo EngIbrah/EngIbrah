@@ -1,4 +1,4 @@
-# Hi there! I'm Ibrahim 👋
+#  I'm Ibrahim
 
 A computer engineering specialist focused on **Data Analysis**, **Machine Learning**, and **Full-Stack Development**. Eager to explore emerging AI technologies and build innovative problem-solving tools.
 
@@ -14,17 +14,11 @@ A computer engineering specialist focused on **Data Analysis**, **Machine Learni
 
 ### 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=EngIbrah&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ibrahim's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngIbrah&theme=dark&hide_border=true" alt="Ibrahim's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=EngIbrah&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
