@@ -8,7 +8,7 @@ A computer engineering specialist focused on **Data Analysis**, **Machine Learni
 
 * **Languages:** Python, JavaScript, TypeScript, SQL
 * **Data & AI:** Machine Learning (TensorFlow), Excel, Power BI
-* **Full-Stack:** React, React Native, Node.js, Express.js, Mongoose, MongoDB, PostgreSQL
+* **Full-Stack:** React, React Native, Node.js, Django, PostgreSQL
 
 ---
 
