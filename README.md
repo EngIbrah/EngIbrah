@@ -1,4 +1,4 @@
-# Hi, I'm Ibrahim 👋
+# Hi, I'm Ibrahim
 
 Computer Engineering graduate passionate about **Data Analytics**, **Machine Learning**, and **Full-Stack Development**. I enjoy building practical software and AI-powered solutions that solve real-world problems.
 
