@@ -1,37 +1,37 @@
-#  I'm Ibrahim
+# Hi, I'm Ibrahim 👋
 
-A computer engineering specialist focused on **Data Analysis**, **Machine Learning**, and **Full-Stack Development**. Eager to explore emerging AI technologies and build innovative problem-solving tools.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Languages:** Python, JavaScript, TypeScript, SQL
-* **Data & AI:** Machine Learning (TensorFlow), Excel, Power BI
-* **Full-Stack:** React, React Native, Node.js, Django, PostgreSQL
+Computer Engineering graduate passionate about **Data Analytics**, **Machine Learning**, and **Full-Stack Development**. I enjoy building practical software and AI-powered solutions that solve real-world problems.
 
 ---
 
-### 📊 GitHub Dashboard
+### 🛠 Tech Stack
 
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Data & AI:** Power BI, Excel, TensorFlow
+- **Development:** React, React Native, Node.js, Django, PostgreSQL
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngIbrah&theme=dark&hide_border=true" alt="Ibrahim's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngIbrah&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ---
 
 ### 🚀 Featured Projects
 
-* **[Customer Shopping Behaviour Analysis](https://github.com/EngIbrah/Customer-Shopping-Behaviour-Analysis)** – Data analysis with Python, SQL, and Power BI.
-* **[MindCare AI](https://github.com/EngIbrah/mindcare-ai-based-mental-health-platform)** – AI-powered mental health platform built with TypeScript.
-* **[Financial Inclusion in Africa](https://github.com/EngIbrah/Financial-Inclusion-in-Africa-Zindi-Competition)** – Zindi machine learning competition entry.
+- **Customer Shopping Behaviour Analysis** — Python, SQL & Power BI
+- **MindCare AI** — AI-powered mental health platform
+- **Financial Inclusion in Africa** — Zindi machine learning competition
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/ibrahim-ndagiwe/) | [Email](mailto:ibrahndagiwe99@gmail.com) | [X (Twitter)](https://x.com/ibrahndagiwe) | [Instagram](https://instagram.com/ndagiwe_)
+[LinkedIn](https://www.linkedin.com/in/ibrahim-ndagiwe/) •
+[Email](mailto:ibrahndagiwe99@gmail.com) •
+[X](https://x.com/ibrahndagiwe)
 
-*Always learning, building, and open to collaborations!* 🚀
+> Building. Learning. Improving.
