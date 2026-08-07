@@ -8,7 +8,7 @@ Computer Engineering graduate passionate about **Data Analytics**, **Machine Lea
 
 - **Languages:** Python, TypeScript, JavaScript, SQL
 - **Data & AI:** Power BI, Excel, TensorFlow
-- **Development:** React, React Native, Node.js, Django, PostgreSQL
+- **Development:** React, React Native, Node.js, NextJs, PostgreSQL
 
 ---
 
