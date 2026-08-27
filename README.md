@@ -8,14 +8,14 @@
 
 <br>
 
-```bash
-ibrahim@dev:~$ whoami
-> Full-Stack Developer, passionate about Data & AI
-> turning ideas into shipped software.
+```ansi
+[0;32mibrahim@dev:~$ whoami[0m
+[0;32m> Full-Stack Developer, passionate about Data & AI[0m
+[0;32m> turning ideas into shipped software.[0m
 
-ibrahim@dev:~$ focus --list
-> Building web & mobile apps end to end
-> Exploring Data Analytics + Machine Learning
+[0;32mibrahim@dev:~$ focus --list[0m
+[0;32m> Building web & mobile apps end to end[0m
+[0;32m> Exploring Data Analytics + Machine Learning[0m
 ```
 
 <br>
@@ -51,10 +51,10 @@ ibrahim@dev:~$ focus --list
 
 ### `contact.sh`
 
-```bash
-$ echo $LINKEDIN   → linkedin.com/in/ibrahim-ndagiwe
-$ echo $EMAIL      → ibrahndagiwe99@gmail.com
-$ echo $X          → x.com/ibrahndagiwe
+```ansi
+[0;32m$ echo $LINKEDIN   → linkedin.com/in/ibrahim-ndagiwe[0m
+[0;32m$ echo $EMAIL      → ibrahndagiwe99@gmail.com[0m
+[0;32m$ echo $X          → x.com/ibrahndagiwe[0m
 ```
 
 <p align="center">
