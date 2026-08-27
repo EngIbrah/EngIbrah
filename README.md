@@ -14,19 +14,7 @@
 
 <br>
 
-### `stack.json`
 
-```json
-{
-  "languages":  ["Python", "TypeScript"],
-  "frontend":   ["React", "Next.js", "Flutter"],
-  "backend":    ["NestJS", "Node.js"],
-  "data_ai":    ["Power BI", "TensorFlow"]
-}
-```
-
-
-<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngIbrah&theme=dark&hide_border=true" alt="GitHub Streak" />
