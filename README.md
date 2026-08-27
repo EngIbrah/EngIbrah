@@ -25,15 +25,6 @@
 }
 ```
 
-<br>
-
-### `// featured_projects`
-
-| project | stack | about |
-|---|---|---|
-| **Customer Shopping Behaviour Analysis** | Python · SQL · Power BI | Uncovering purchase patterns from raw retail data |
-| **MindCare AI** | Python · ML | AI-powered mental health support platform |
-| **Financial Inclusion in Africa** | Python · ML | Zindi competition — modeling access to financial services |
 
 <br>
 
