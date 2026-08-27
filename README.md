@@ -8,15 +8,9 @@
 
 <br>
 
-```ansi
-[0;32mibrahim@dev:~$ whoami[0m
-[0;32m> Full-Stack Developer, passionate about Data & AI[0m
-[0;32m> turning ideas into shipped software.[0m
-
-[0;32mibrahim@dev:~$ focus --list[0m
-[0;32m> Building web & mobile apps end to end[0m
-[0;32m> Exploring Data Analytics + Machine Learning[0m
-```
+<p align="center">
+  <img src="./assets/terminal-whoami.svg" alt="whoami" />
+</p>
 
 <br>
 
@@ -51,11 +45,9 @@
 
 ### `contact.sh`
 
-```ansi
-[0;32m$ echo $LINKEDIN   → linkedin.com/in/ibrahim-ndagiwe[0m
-[0;32m$ echo $EMAIL      → ibrahndagiwe99@gmail.com[0m
-[0;32m$ echo $X          → x.com/ibrahndagiwe[0m
-```
+<p align="center">
+  <img src="./assets/terminal-contact.svg" alt="contact" />
+</p>
 
 <p align="center">
 <sub><i>building · learning · improving</i></sub>
