@@ -1,37 +1,60 @@
-#  It's Ibrahim
+<h1 align="center">Hi, I'm Ibrahim 👋</h1>
 
-Computer Engineering graduate passionate about **Data Analytics**, **Machine Learning**, and **Full-Stack Development**. I enjoy building practical software and AI-powered solutions that solve real-world problems.
+<p align="center">
+<code>~ Computer Engineer • Data & AI • Full-Stack Dev ~</code>
+</p>
 
----
+<br>
 
-### 🛠 Tech Stack
+```bash
+ibrahim@dev:~$ whoami
+> Computer Engineering graduate turning data into decisions
+> and ideas into shipped software.
 
-- **Languages:** Python, TypeScript, JavaScript, SQL
-- **Data & AI:** Power BI, Excel, TensorFlow
-- **Development:** React, React Native, Node.js, NextJs, PostgreSQL
+ibrahim@dev:~$ focus --list
+> Data Analytics
+> Machine Learning
+> Full-Stack Development
+```
 
----
+<br>
 
-### 📊 GitHub Stats
+### `stack.json`
+
+```json
+{
+  "languages": ["Python", "TypeScript", "JavaScript", "SQL"],
+  "data_ai":   ["Power BI", "Excel", "TensorFlow"],
+  "dev":       ["React", "React Native", "Node.js", "Next.js", "PostgreSQL"]
+}
+```
+
+<br>
+
+### `// featured_projects`
+
+| project | stack | about |
+|---|---|---|
+| **Customer Shopping Behaviour Analysis** | Python · SQL · Power BI | Uncovering purchase patterns from raw retail data |
+| **MindCare AI** | Python · ML | AI-powered mental health support platform |
+| **Financial Inclusion in Africa** | Python · ML | Zindi competition — modeling access to financial services |
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngIbrah&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<br>
 
-### 🚀 Featured Projects
+### `contact.sh`
 
-- **Customer Shopping Behaviour Analysis** — Python, SQL & Power BI
-- **MindCare AI** — AI-powered mental health platform
-- **Financial Inclusion in Africa** — Zindi machine learning competition
+```bash
+$ echo $LINKEDIN   → linkedin.com/in/ibrahim-ndagiwe
+$ echo $EMAIL      → ibrahndagiwe99@gmail.com
+$ echo $X          → x.com/ibrahndagiwe
+```
 
----
-
-### 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/ibrahim-ndagiwe/) •
-[Email](mailto:ibrahndagiwe99@gmail.com) •
-[X](https://x.com/ibrahndagiwe)
-
-> Building. Learning. Improving.
+<p align="center">
+<sub><i>building · learning · improving</i></sub>
+</p>
