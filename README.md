@@ -1,20 +1,21 @@
-<h1 align="center">Hi, I'm Ibrahim 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1500&color=00F5D4&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B" alt="Hi, I'm Ibrahim" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=520&lines=Computer+Engineer;Data+Analytics+%2B+Machine+Learning;Full-Stack+Developer;Building+practical+AI+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=FF61D8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Passionate+about+Data+%26+AI;Python+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Next.js;NestJS+%C2%B7+Flutter" alt="Typing SVG" />
 </p>
 
 <br>
 
 ```bash
 ibrahim@dev:~$ whoami
-> Computer Engineering graduate turning data into decisions
-> and ideas into shipped software.
+> Full-Stack Developer, passionate about Data & AI
+> turning ideas into shipped software.
 
 ibrahim@dev:~$ focus --list
-> Data Analytics
-> Machine Learning
-> Full-Stack Development
+> Building web & mobile apps end to end
+> Exploring Data Analytics + Machine Learning
 ```
 
 <br>
@@ -23,9 +24,10 @@ ibrahim@dev:~$ focus --list
 
 ```json
 {
-  "languages": ["Python", "TypeScript", "JavaScript", "SQL"],
-  "data_ai":   ["Power BI", "Excel", "TensorFlow"],
-  "dev":       ["React", "React Native", "Node.js", "Next.js", "PostgreSQL"]
+  "languages":  ["Python", "TypeScript"],
+  "frontend":   ["React", "Next.js", "Flutter"],
+  "backend":    ["NestJS", "Node.js"],
+  "data_ai":    ["Power BI", "TensorFlow"]
 }
 ```
 
