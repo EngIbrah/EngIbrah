@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ibrahim 👋</h1>
 
 <p align="center">
-<code>~ Computer Engineer • Data & AI • Full-Stack Dev ~</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=520&lines=Computer+Engineer;Data+Analytics+%2B+Machine+Learning;Full-Stack+Developer;Building+practical+AI+solutions" alt="Typing SVG" />
 </p>
 
 <br>
