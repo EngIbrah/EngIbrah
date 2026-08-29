@@ -22,11 +22,7 @@
 
 <br>
 
-### `contact.sh`
 
-<p align="center">
-  <img src="./assets/terminal-contact.svg" alt="contact" />
-</p>
 
 <p align="center">
 <sub><i>building · learning · improving</i></sub>
