@@ -8,9 +8,6 @@
 
 <br>
 
-<p align="center">
-  <img src="./assets/terminal-whoami.svg" alt="whoami" />
-</p>
 
 <br>
 
